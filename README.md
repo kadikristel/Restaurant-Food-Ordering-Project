@@ -1,3 +1,5 @@
+Documentation of use cases
+
 UC1. Menu browsing with search:
 
     Description
