@@ -1,3 +1,4 @@
+```markdown
 # Restaurant Food Ordering App
 
 A contactless web application designed for restaurants to facilitate food and drink ordering while ensuring compliance with GDPR regulations.
