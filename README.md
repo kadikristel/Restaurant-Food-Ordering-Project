@@ -1,4 +1,23 @@
-Documentation of use cases
+# Restaurant Food Ordering App
+
+A contactless web application designed for restaurants to facilitate food and drink ordering while ensuring compliance with GDPR regulations.
+
+## Features
+
+- **Contactless Ordering**: Customers can browse the menu and place orders without physical interaction.
+- **Menu Management**: Upload and manage products with details like images, allergy information, and categories.
+- **Order Management**: Staff can view, process, and manage incoming orders in real-time.
+- **Contact Tracing**: Collects and securely stores customer information for 21 days to comply with privacy laws.
+- **Accessibility**: Accessible via QR code or web address on smartphones, tablets, and computers.
+
+## Installation
+
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/kadikristel/Restaurant-Food-Ordering-Project.git
+   cd Restaurant-Food-Ordering-Project
+
+## Documentation of use cases
 
 UC1. Menu browsing with search:
 
